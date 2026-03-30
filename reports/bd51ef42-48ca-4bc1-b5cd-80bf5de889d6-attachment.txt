@@ -1,1 +1,0 @@
-{'args': {'age': '20', 'name': '张三'}, 'headers': {'Accept': 'application/json', 'Accept-Encoding': 'gzip, deflate, zstd', 'Content-Type': 'application/json', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.32.5', 'X-Amzn-Trace-Id': 'Root=1-69ca183c-221d671c0573c45e45712955'}, 'origin': '103.249.160.37', 'url': 'https://httpbin.org/get?name=张三&age=20'}
