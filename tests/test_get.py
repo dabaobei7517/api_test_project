@@ -25,3 +25,13 @@ def test_get_with_params(base_url, headers):
         data = response.json()
         assert data["args"]["name"] == "张三"
         assert data["args"]["age"] == "20"
+
+
+def test_get_post():
+    response = requests.get(
+        "https://jsonplaceholder.typicode.com/posts/1"
+    )
+    data = response.json()
+    assert response.status_code == 200
+    assert data["id"] == 1
+    assert data["userId"] == 1
