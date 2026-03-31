@@ -1,0 +1,131 @@
+2026-03-31 13:44:19,398 [INFO] 开始登录...
+2026-03-31 13:44:19,401 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:47:34,191 [INFO] 开始登录...
+2026-03-31 13:47:34,194 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:47:34,233 [INFO] 开始完整购物流程测试
+2026-03-31 13:47:34,235 [INFO] 获取到商品id：1
+2026-03-31 13:47:34,238 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:47:34,241 [INFO] 下单结果：{'code': 200, 'order_id': 9, 'message': '下单成功'}
+2026-03-31 13:47:34,244 [INFO] 订单列表：[{'order_id': 1, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 2, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 3, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}, {'order_id': 4, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 5, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}, {'order_id': 6, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 7, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}, {'order_id': 8, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 9, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:47:34,245 [INFO] 完整购物流程测试通过！
+2026-03-31 13:51:18,857 [INFO] 开始登录...
+2026-03-31 13:51:18,860 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:51:18,895 [INFO] 开始完整购物流程测试
+2026-03-31 13:51:18,897 [INFO] 获取到商品id：1
+2026-03-31 13:51:18,899 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:51:18,902 [INFO] 下单结果：{'code': 200, 'order_id': 2, 'message': '下单成功'}
+2026-03-31 13:51:18,904 [INFO] 订单列表：[{'order_id': 1, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 2, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:51:18,904 [INFO] 完整购物流程测试通过！
+2026-03-31 13:51:18,907 [INFO] 测试数据已清理
+2026-03-31 13:51:52,359 [INFO] 开始登录...
+2026-03-31 13:51:52,362 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:51:52,399 [INFO] 开始完整购物流程测试
+2026-03-31 13:51:52,401 [INFO] 获取到商品id：1
+2026-03-31 13:51:52,403 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:51:52,406 [INFO] 下单结果：{'code': 200, 'order_id': 4, 'message': '下单成功'}
+2026-03-31 13:51:52,408 [INFO] 订单列表：[{'order_id': 3, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 4, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:51:52,408 [INFO] 完整购物流程测试通过！
+2026-03-31 13:51:52,411 [INFO] 测试数据已清理
+2026-03-31 13:51:55,172 [INFO] 开始登录...
+2026-03-31 13:51:55,175 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:51:55,211 [INFO] 开始完整购物流程测试
+2026-03-31 13:51:55,215 [INFO] 获取到商品id：1
+2026-03-31 13:51:55,217 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:51:55,222 [INFO] 下单结果：{'code': 200, 'order_id': 6, 'message': '下单成功'}
+2026-03-31 13:51:55,225 [INFO] 订单列表：[{'order_id': 5, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 6, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:51:55,225 [INFO] 完整购物流程测试通过！
+2026-03-31 13:51:55,229 [INFO] 测试数据已清理
+2026-03-31 13:51:57,512 [INFO] 开始登录...
+2026-03-31 13:51:57,515 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:51:57,549 [INFO] 开始完整购物流程测试
+2026-03-31 13:51:57,551 [INFO] 获取到商品id：1
+2026-03-31 13:51:57,554 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:51:57,556 [INFO] 下单结果：{'code': 200, 'order_id': 8, 'message': '下单成功'}
+2026-03-31 13:51:57,559 [INFO] 订单列表：[{'order_id': 7, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 8, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:51:57,559 [INFO] 完整购物流程测试通过！
+2026-03-31 13:51:57,562 [INFO] 测试数据已清理
+2026-03-31 13:52:00,060 [INFO] 开始登录...
+2026-03-31 13:52:00,063 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:52:00,098 [INFO] 开始完整购物流程测试
+2026-03-31 13:52:00,099 [INFO] 获取到商品id：1
+2026-03-31 13:52:00,102 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:52:00,105 [INFO] 下单结果：{'code': 200, 'order_id': 10, 'message': '下单成功'}
+2026-03-31 13:52:00,107 [INFO] 订单列表：[{'order_id': 9, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 10, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:52:00,107 [INFO] 完整购物流程测试通过！
+2026-03-31 13:52:00,110 [INFO] 测试数据已清理
+2026-03-31 13:52:09,006 [INFO] 开始登录...
+2026-03-31 13:52:09,010 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:52:09,045 [INFO] 开始完整购物流程测试
+2026-03-31 13:52:09,048 [INFO] 获取到商品id：1
+2026-03-31 13:52:09,052 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:52:09,055 [INFO] 下单结果：{'code': 200, 'order_id': 12, 'message': '下单成功'}
+2026-03-31 13:52:09,058 [INFO] 订单列表：[{'order_id': 11, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 12, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:52:09,058 [INFO] 完整购物流程测试通过！
+2026-03-31 13:52:09,062 [INFO] 测试数据已清理
+2026-03-31 13:52:11,603 [INFO] 开始登录...
+2026-03-31 13:52:11,606 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:52:11,643 [INFO] 开始完整购物流程测试
+2026-03-31 13:52:11,645 [INFO] 获取到商品id：1
+2026-03-31 13:52:11,647 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:52:11,650 [INFO] 下单结果：{'code': 200, 'order_id': 14, 'message': '下单成功'}
+2026-03-31 13:52:11,653 [INFO] 订单列表：[{'order_id': 13, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}, {'product_id': 1, 'quantity': 1}, {'product_id': 1, 'quantity': 1}], 'status': '待支付'}, {'order_id': 14, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:52:11,653 [INFO] 完整购物流程测试通过！
+2026-03-31 13:52:11,656 [INFO] 测试数据已清理
+2026-03-31 13:55:09,605 [INFO] 开始登录...
+2026-03-31 13:55:09,608 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:55:09,629 [INFO] 测试前数据已清理
+2026-03-31 13:55:09,637 [INFO] 测试后数据已清理
+2026-03-31 13:55:09,639 [INFO] 测试前数据已清理
+2026-03-31 13:55:09,648 [INFO] 测试后数据已清理
+2026-03-31 13:55:09,771 [INFO] 测试前数据已清理
+2026-03-31 13:55:09,772 [INFO] 开始完整购物流程测试
+2026-03-31 13:55:09,774 [INFO] 获取到商品id：1
+2026-03-31 13:55:09,776 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:55:09,779 [INFO] 下单结果：{'code': 200, 'order_id': 16, 'message': '下单成功'}
+2026-03-31 13:55:09,782 [INFO] 订单列表：[{'order_id': 16, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:55:09,783 [INFO] 完整购物流程测试通过！
+2026-03-31 13:55:09,785 [INFO] 测试后数据已清理
+2026-03-31 13:55:50,815 [INFO] 开始登录...
+2026-03-31 13:55:50,818 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:55:50,841 [INFO] 测试前数据已清理
+2026-03-31 13:55:50,848 [INFO] 测试后数据已清理
+2026-03-31 13:55:50,851 [INFO] 测试前数据已清理
+2026-03-31 13:55:50,860 [INFO] 测试后数据已清理
+2026-03-31 13:55:50,984 [INFO] 测试前数据已清理
+2026-03-31 13:55:50,985 [INFO] 开始完整购物流程测试
+2026-03-31 13:55:50,986 [INFO] 获取到商品id：1
+2026-03-31 13:55:50,990 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:55:50,992 [INFO] 下单结果：{'code': 200, 'order_id': 18, 'message': '下单成功'}
+2026-03-31 13:55:50,995 [INFO] 订单列表：[{'order_id': 18, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:55:50,995 [INFO] 完整购物流程测试通过！
+2026-03-31 13:55:50,998 [INFO] 测试后数据已清理
+2026-03-31 13:56:00,152 [INFO] 开始登录...
+2026-03-31 13:56:00,155 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:56:00,182 [INFO] 测试前数据已清理
+2026-03-31 13:56:00,188 [INFO] 测试后数据已清理
+2026-03-31 13:56:00,191 [INFO] 测试前数据已清理
+2026-03-31 13:56:00,201 [INFO] 测试后数据已清理
+2026-03-31 13:56:00,318 [INFO] 测试前数据已清理
+2026-03-31 13:56:00,318 [INFO] 开始完整购物流程测试
+2026-03-31 13:56:00,320 [INFO] 获取到商品id：1
+2026-03-31 13:56:00,323 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:56:00,325 [INFO] 下单结果：{'code': 200, 'order_id': 20, 'message': '下单成功'}
+2026-03-31 13:56:00,327 [INFO] 订单列表：[{'order_id': 20, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:56:00,328 [INFO] 完整购物流程测试通过！
+2026-03-31 13:56:00,330 [INFO] 测试后数据已清理
+2026-03-31 13:56:43,458 [INFO] 开始登录...
+2026-03-31 13:56:43,461 [INFO] 登录结果：{'code': 200, 'token': 'token_admin_123', 'message': '登录成功'}
+2026-03-31 13:56:43,482 [INFO] 测试前数据已清理
+2026-03-31 13:56:43,490 [INFO] 测试后数据已清理
+2026-03-31 13:56:43,493 [INFO] 测试前数据已清理
+2026-03-31 13:56:43,501 [INFO] 测试后数据已清理
+2026-03-31 13:56:43,504 [INFO] 测试前数据已清理
+2026-03-31 13:56:43,512 [INFO] 测试后数据已清理
+2026-03-31 13:56:43,515 [INFO] 测试前数据已清理
+2026-03-31 13:56:43,516 [INFO] 开始完整购物流程测试
+2026-03-31 13:56:43,518 [INFO] 获取到商品id：1
+2026-03-31 13:56:43,521 [INFO] 加入购物车：{'code': 200, 'message': '加入购物车成功'}
+2026-03-31 13:56:43,524 [INFO] 下单结果：{'code': 200, 'order_id': 23, 'message': '下单成功'}
+2026-03-31 13:56:43,526 [INFO] 订单列表：[{'order_id': 23, 'username': 'admin', 'items': [{'product_id': 1, 'quantity': 2}], 'status': '待支付'}]
+2026-03-31 13:56:43,526 [INFO] 完整购物流程测试通过！
+2026-03-31 13:56:43,529 [INFO] 测试后数据已清理
